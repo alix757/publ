@@ -25,7 +25,8 @@ body {
 }
 
 .rounded a:hover {
-    background: #E9E4E0;
+    /*background: #E9E4E0;*/
+   background: red;
 }
 
 .rounded a:hover:before {
