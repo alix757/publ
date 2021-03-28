@@ -8,7 +8,7 @@ body {
     counter-reset: li; 
     list-style: none; 
     font: 15px "Trebuchet MS", "Lucida Sans";
-    padding: 5;
+    padding: 20px;
     text-shadow: 0 1px 0 rgba(255,255,255,.5);
 }
 
