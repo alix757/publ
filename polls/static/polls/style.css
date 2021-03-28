@@ -1,13 +1,14 @@
 
 body {
    background-color: silver;
+   font-family: "Trebuchet MS", "Lucida Sans";
 }
 
 .rounded {
     counter-reset: li; 
     list-style: none; 
-    /*font: 14px "Trebuchet MS", "Lucida Sans";*/
-    padding: 0;
+    font: 14px "Trebuchet MS", "Lucida Sans";
+    padding: 5;
     text-shadow: 0 1px 0 rgba(255,255,255,.5);
 }
 
@@ -28,7 +29,8 @@ body {
 }
 
 .rounded a:hover:before {
-    transform: rotate(360deg);
+    /*transform: rotate(360deg);*/
+    background: #f5a35f;
 }
 
 .rounded a:before {

@@ -1,0 +1,4 @@
+Обновить данные с Git:
+(alix757.pythonanywhere.com) 05:28 ~/alix757.pythonanywhere.com (master)$ git pull
+
+https://vectree.ru/text/129/5/0
